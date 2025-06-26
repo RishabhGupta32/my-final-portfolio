@@ -8,3 +8,4 @@ createRoot(document.getElementById('root')).render(
     <App />
   </StrictMode>,
 )
+import "@fortawesome/fontawesome-free/css/all.min.css";
